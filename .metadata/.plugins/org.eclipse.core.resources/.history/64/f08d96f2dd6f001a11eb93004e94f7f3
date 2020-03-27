@@ -1,0 +1,13 @@
+package com.example.demo.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+//HelloController의 모든 메소드를 타겟으로 하는 어드바이스
+public class HelloController {
+	@RequestMapping("/hello.do")
+	public String hello() {
+		return "hello";
+	}
+}

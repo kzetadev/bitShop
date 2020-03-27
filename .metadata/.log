@@ -168,3 +168,191 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:38:15.565
 !MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-03-27 12:49:20.103
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2022)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:109)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:02.414
+!MESSAGE Preparing classpath changed notification bitShop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:02.415
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:02.418
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:02.419
+!MESSAGE buffering callback sts4.classpath.WAzylsav bitShop false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:02.419
+!MESSAGE executing callback sts4.classpath.WAzylsav 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:02.488
+!MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:07.110
+!MESSAGE Preparing classpath changed notification bitShop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:07.110
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:07.114
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:07.115
+!MESSAGE buffering callback sts4.classpath.WAzylsav bitShop false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:07.115
+!MESSAGE executing callback sts4.classpath.WAzylsav 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 12:52:07.119
+!MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 13:15:52.264
+!MESSAGE Preparing classpath changed notification bitShop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 13:15:52.264
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 13:15:52.284
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 13:15:52.285
+!MESSAGE buffering callback sts4.classpath.WAzylsav bitShop false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 13:15:52.286
+!MESSAGE executing callback sts4.classpath.WAzylsav 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 13:15:52.291
+!MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-03-27 15:09:54.086
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2022)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:109)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.545
+!MESSAGE Preparing classpath changed notification day0327bitShop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.545
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.548
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.549
+!MESSAGE buffering callback sts4.classpath.WAzylsav day0327bitShop false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.550
+!MESSAGE executing callback sts4.classpath.WAzylsav 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.933
+!MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.933
+!MESSAGE Preparing classpath changed notification day0327bitShop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.934
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.951
+!MESSAGE classpath=98 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.954
+!MESSAGE buffering callback sts4.classpath.WAzylsav day0327bitShop false 98
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:39.954
+!MESSAGE executing callback sts4.classpath.WAzylsav 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.011
+!MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.011
+!MESSAGE Preparing classpath changed notification day0327bitShop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.012
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.029
+!MESSAGE classpath=97 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.031
+!MESSAGE buffering callback sts4.classpath.WAzylsav day0327bitShop false 97
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.032
+!MESSAGE executing callback sts4.classpath.WAzylsav 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.215
+!MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.216
+!MESSAGE Preparing classpath changed notification day0327bitShop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.216
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.224
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.225
+!MESSAGE buffering callback sts4.classpath.WAzylsav day0327bitShop false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.226
+!MESSAGE executing callback sts4.classpath.WAzylsav 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.244
+!MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.244
+!MESSAGE Preparing classpath changed notification day0327bitShop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.245
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.249
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.251
+!MESSAGE buffering callback sts4.classpath.WAzylsav day0327bitShop false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.252
+!MESSAGE executing callback sts4.classpath.WAzylsav 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:40.391
+!MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:44.613
+!MESSAGE Preparing classpath changed notification day0327bitShop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:44.614
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:44.617
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:44.618
+!MESSAGE buffering callback sts4.classpath.WAzylsav day0327bitShop false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:44.618
+!MESSAGE executing callback sts4.classpath.WAzylsav 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-27 18:04:44.647
+!MESSAGE executing callback sts4.classpath.WAzylsav SUCCESS [done]
